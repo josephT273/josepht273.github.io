@@ -12,14 +12,6 @@
 - 🔧 Building: `Open Bible` and other open-source tools
 - 🧠 Currently learning **C++** and **Rust** for system development
 - 🏆 Patent holder for a software project in Ethiopia
-
----
-
-### 🔭 Current Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [Open Bible (Under Development)](https://github.com/josepht273/OpenBible) | An interactive Bible app built with React + Vite | React, Vite, PNPM |
-| [School Management System (Private Project)](#) | Multi-school management platform with role-based access | Next.js, Prisma, MongoDB |
 ---
 
 ### 🧰 Tech Stack
